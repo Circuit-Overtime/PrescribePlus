@@ -1,4 +1,4 @@
-st 🌟 Prescription Management System 🌟
+ 🌟 Prescription Management System 🌟
 
 Welcome to the **Prescription Management System**, a seamless, secure, and smart way to manage patient prescriptions, track medication adherence, and ensure optimal patient outcomes. This platform is designed to bring healthcare providers and patients closer, improving the quality of care through cutting-edge technology.
 
